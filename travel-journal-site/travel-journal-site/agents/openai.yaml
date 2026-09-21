@@ -1,0 +1,14 @@
+interface:
+  display_name: Travel Journal Site
+  short_description: Design immersive destination journals and route themes
+  default_prompt: Use $travel-journal-site to design the next destination chapter
+    of my road-trip website.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
